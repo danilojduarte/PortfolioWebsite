@@ -34,3 +34,13 @@ header {
     background: transparent;
     transition: all ease .45s;
 }
+
+.logo {
+    color: var(--text-color);
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.logo span {
+    color: var(--main-color);
+}
